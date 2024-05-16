@@ -1,6 +1,22 @@
 {
   "Files": [
     {
+      "Id": "D:\\Depo\\Asp .Net\\BlogApp\\BlogApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Depo\\Asp .Net\\BlogApp\\BlogApp\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\Depo\\Asp .Net\\BlogApp\\BlogApp\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\Depo\\Asp .Net\\BlogApp\\BlogApp\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
       "Id": "D:\\Depo\\Asp .Net\\BlogApp\\BlogApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
