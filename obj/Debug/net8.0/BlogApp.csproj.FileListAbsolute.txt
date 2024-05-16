@@ -244,3 +244,6 @@ C:\Users\ozgee\Documents\GitHub\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.genrunt
 C:\Users\ozgee\Documents\GitHub\BlogApp\BlogApp\obj\Debug\net8.0\ref\BlogApp.dll
 D:\Depo\Asp .Net\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.RazorAssemblyInfo.cache
 D:\Depo\Asp .Net\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.RazorAssemblyInfo.cs
+D:\Depo\Asp .Net\BlogApp\BlogApp\obj\Debug\net8.0\BlogApp.sourcelink.json
+D:\Depo\Asp .Net\BlogApp\BlogApp\bin\Debug\net8.0\libman.json
+D:\Depo\Asp .Net\BlogApp\BlogApp\bin\Debug\net8.0\BlogApp.staticwebassets.runtime.json
