@@ -17,6 +17,22 @@
       "PackagePath": "staticwebassets\\img\\3.jpg"
     },
     {
+      "Id": "D:\\Depo\\Asp .Net\\BlogApp\\BlogApp\\wwwroot\\img\\Portre\\p1.jpg",
+      "PackagePath": "staticwebassets\\img\\Portre\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Depo\\Asp .Net\\BlogApp\\BlogApp\\wwwroot\\img\\Portre\\p2.jpg",
+      "PackagePath": "staticwebassets\\img\\Portre\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Depo\\Asp .Net\\BlogApp\\BlogApp\\wwwroot\\img\\Portre\\p3.jpg",
+      "PackagePath": "staticwebassets\\img\\Portre\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Depo\\Asp .Net\\BlogApp\\BlogApp\\wwwroot\\img\\Portre\\p4.jpg",
+      "PackagePath": "staticwebassets\\img\\Portre\\p4.jpg"
+    },
+    {
       "Id": "D:\\Depo\\Asp .Net\\BlogApp\\BlogApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },

@@ -7,6 +7,8 @@ public class Post
     public int PostId { get; set; }
     public string? Title { get; set; }
     public string? Content { get; set; }
+    public string? Url { get; set; }
+
     public string? Image { get; set; }
 
     public DateTime PublishedOn { get; set; }
@@ -15,7 +17,7 @@ public class Post
 
     //-----İlişkiler
     public User User { get; set; }=null!; //-User
-    public List<Tag> Tags { get; set; }=new List<Tag>();
-    public List<Comment> Comments { get; set; }=new List<Comment>();
+    public List<Tag> Tags { get; set; } = new List<Tag>();
+    public List<Comment> Comments { get; set; } = new List<Comment>();
 
 }
